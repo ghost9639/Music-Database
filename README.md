@@ -1,6 +1,6 @@
 ## Repository 
 
-A variety of SQL queries for basic data analysis of a music database. WSDA music is a large database of track sales, containing data like album sales and reviews. These programs were written using DB Browser for SQLite.
+A variety of SQL queries for basic data analysis of a [music database](WSDA_Music.db). WSDA music is a large database of track sales, containing data like album sales and reviews. These programs were written using DB Browser for SQLite.
 
 # Averages
 
